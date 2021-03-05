@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `steel-template-gatsby`,
+    title `steel-template-gatsby`,
     //must be the url your frontend is deployed to!!!
     siteUrl: "https://steel-studio-gatsby-86mbreiz.netlify.app/",
     description:
